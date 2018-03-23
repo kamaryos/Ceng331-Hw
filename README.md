@@ -1,6 +1,6 @@
 # Haskell-Tests
 
-So I started to work on some Haskell projects for our Programming Language lessons.
+So I started to work on some Haskell projects for our Programming Language Concepts lectures.
 
 I will update after every homework finished.
 
